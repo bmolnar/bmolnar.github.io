@@ -1,0 +1,38 @@
+- text: Home
+  url: /index.html
+
+- text: Tools
+  sub:
+    - text: LaTeX Base
+      url: https://latexbase.com
+      external: true
+
+- text: Research Interests
+  sub:
+    - text: Control Systems
+      url: /control_systems.html
+    - text: Robotics
+      url: /robotics.html
+    - text: Mathematics
+      url: /mathematics.html
+    - text: Physics
+      url: /physics.html
+
+- text: Projects
+  sub:
+    - text: Mobile Studio for Linux
+      url: https://github.com/bmolnar/mobilestudio/
+      external: true
+    - text: Arduino Synth
+      url: https://github.com/bmolnar/arduino-synth/
+      external: true
+
+- text: Quick Links
+  sub:
+    - text: ROS2
+      url: https://github.com/ros2/
+      external: true
+
+- text: Press
+  url: /press.html
+
