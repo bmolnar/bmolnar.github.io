@@ -1,6 +1,16 @@
 - text: Home
   url: /index.html
 
+- text: Tips and Tricks
+  sub:
+    - text: Code Snippets (Bash)
+      url: /code_snippets_bash.html
+    - text: Code Snippets (C++)
+      url: /code_snippets_cpp.html
+    - text: Code Snippets (Python)
+      url: /code_snippets_python.html
+
+
 - text: Tools
   sub:
     - text: LaTeX Base
